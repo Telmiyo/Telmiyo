@@ -1,4 +1,4 @@
-## Some **wibbly wobbly, timey wimey** stuff over here 🌀✨
+## **Wibbly wobbly, timey wimey** stuff
 
 <!--
 **Telmiyo/Telmiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
