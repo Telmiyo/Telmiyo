@@ -1,4 +1,4 @@
-## **Wibbly wobbly, timey wimey** 🌀
+Time may be a wibbly-wobbly ball of stuff, yet here I leave my footprints in its shifting sands.
 
 <!--
 **Telmiyo/Telmiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
